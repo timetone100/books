@@ -1,0 +1,20 @@
+I just started reading the Mythical Man Month. A collection of essays on software engineering by Fredrick Brooks.
+I finished the first two essays.. the tar pit and the mythical man month. There are several good take aways.
+The main one is that the more people you put on a programming job will not always make things get done faster.
+Often it is the opposite. Similar to a tar pit, the more limbs are lashing out, the more stuck in the quagmire you become. 
+Another take away is actually credited to Dorothy Sayers in "the Mind of the Maker", but I credit my art 3 teachers.
+The point is that there are three stages to any creative activity. The conception, the execution, and the interaction. 
+In my art class, it was about "what is art?". If you paint a beautiful painting and it gets buried in the ground and no one ever sees it..
+is it art? He argued no. To complete the cycle of art there must be a beholder.. someone to experience the piece to make it art. 
+Focusing on these stages intentionally and seperately greatly increases your chances of success in a completed software project. 
+
+A great quote from the first essay is
+"The real tiger is never a match for the paper one, unless actual use is wanted"
+
+He also referrences a rule of thumb for scheduling a software task that has been successful.
+
+1/3 planning
+1/6 coding
+1/4 component test and early systems test
+1/4 system test, all components in hand
+
